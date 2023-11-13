@@ -356,14 +356,14 @@ h1{
 .owl-nav .owl-prev,
 .owl-nav .owl-next{
     position: absolute;
-    top: -20%;
+    top: -25%;
     height: 50px;
     width: 50px;
     background: #C94842 !important;
     color: #fff;
 }
 
-.owl-nav .owl-prev,
+.owl-nav .owl-prev i,
 .owl-nav .owl-next i {
     color: #fff;
 }
@@ -375,3 +375,4 @@ h1{
 .owl-nav .owl-next {
     right: 0;
 }
+
